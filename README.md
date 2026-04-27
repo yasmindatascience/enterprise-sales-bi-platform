@@ -3,7 +3,7 @@
 ## 📌 Visão do Sistema
 Plataforma de Business Intelligence desenvolvida para simular um ambiente corporativo de análise de vendas.
 
-O sistema modela um fluxo completo de dados de uma empresa, desde o registro de transações até a geração de KPIs estratégicos para tomada de decisão.
+O sistema representa um fluxo completo de dados de uma empresa, desde o registro de transações até a geração de KPIs estratégicos para tomada de decisão.
 
 ---
 
@@ -24,13 +24,13 @@ O sistema é composto por três entidades principais:
 
 ## 📊 KPIs e Análises Implementadas
 
-O sistema permite a extração de métricas essenciais de negócio:
+O sistema permite extração de métricas essenciais de negócio:
 
 - 💰 Receita total da empresa  
 - 🏆 Produtos com maior volume de vendas  
 - 👤 Clientes com maior valor de compra (Customer Value)  
 - 🌍 Receita segmentada por região  
-- 📈 Análise agregada de performance comercial  
+- 📈 Análise temporal de performance comercial  
 
 ---
 
@@ -38,16 +38,14 @@ O sistema permite a extração de métricas essenciais de negócio:
 
 - SQL (MySQL)
 - Modelagem de dados relacional
-- Conceitos de Business Intelligence (BI)
+- Business Intelligence (BI)
 - Análise de dados agregados
 
 ---
 
 ## 🚀 Execução do Projeto
 
-O projeto foi desenvolvido e executado em ambiente online utilizando DB Fiddle, com validação das queries em MySQL.
-
-Não requer instalação local.
+O projeto foi executado em um ambiente de banco de dados SQL compatível com MySQL, permitindo validação das queries e simulação de um cenário real de dados empresariais.
 
 ---
 
@@ -56,7 +54,7 @@ Não requer instalação local.
 ✔ Estrutura de banco de dados implementada  
 ✔ Queries analíticas validadas  
 ✔ KPIs de negócio definidos  
-✔ Projeto funcional em ambiente online (DB Fiddle)  
+✔ Projeto funcional em ambiente SQL online compatível  
 ✔ Pronto para portfólio profissional de Data Analytics  
 
 ---
